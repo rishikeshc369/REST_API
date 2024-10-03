@@ -11,9 +11,9 @@ refer the postman request command used for CRUD operations for this project:
   * GET : localhost:8080/books
 * SELECT BOOK WITH ID:
   * GET : localhost:8080/books/1  (mention the id)
-INSERT DATA:
-POST : localhost:8080/books/add
-UPDATE DATA: 
-PUT : localhost:8080/books/update/4 (4 represents id)
-DELETE DATA:
-DELETE : localhost:8080/books/1 (1 represents id)
+* INSERT DATA:
+ * POST : localhost:8080/books/add
+* UPDATE DATA: 
+ * PUT : localhost:8080/books/update/4 (4 represents id)
+* DELETE DATA:
+ * DELETE : localhost:8080/books/1 (1 represents id)
