@@ -2,8 +2,7 @@ Requirements:
 Programming Language - JAVA 17
 DataBase - PostgreSQL 4
 Spring application - Eclipse 23.6
-API Testing - Postman 
-
+API Testing - Postman.
 
 refer the postman request command used for CRUD operations for this project:
 #SELECT ALL:
