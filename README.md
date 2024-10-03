@@ -7,10 +7,10 @@
 
 refer the postman request command used for CRUD operations for this project:
 ---
-*SELECT ALL:
-  *GET : localhost:8080/books
-*SELECT BOOK WITH ID:
-  *GET : localhost:8080/books/1  (mention the id)
+* SELECT ALL:
+  * GET : localhost:8080/books
+* SELECT BOOK WITH ID:
+  * GET : localhost:8080/books/1  (mention the id)
 INSERT DATA:
 POST : localhost:8080/books/add
 UPDATE DATA: 
